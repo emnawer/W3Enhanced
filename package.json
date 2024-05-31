@@ -1,0 +1,41 @@
+{
+  "name": "W3Enhanced",
+  "description": "W3.CSS is Smaller, Faster and Easier to Use.",
+  "version": "1.0.0",
+  "config": {
+    "version_short": "1.0"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "mobile-first",
+    "bootstrap",
+    "Material-Design",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "https://github.com/emnawer",
+  "author": "Emnawer A.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emnawer/w3enhanced.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emnawer/w3enhanced/issues"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/emnawer"
+    }
+  ],
+  "main": "w3e.js",
+  "style": "w3e.css",
+  "files": [
+    "*.css",
+    "*.js"
+  ]
+}
