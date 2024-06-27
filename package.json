@@ -1,7 +1,7 @@
 {
   "name": "W3Enhanced",
   "description": "W3.CSS is Smaller, Faster and Easier to Use.",
-  "version": "1.0.0",
+  "version": "1.0.0-rc1",
   "config": {
     "version_short": "1.0"
   },
