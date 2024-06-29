@@ -1,10 +1,10 @@
 # W3Enhanced
-W3Enhanced is an NPM package of the [W3E framework](https://github.com/emnawer/W3E).
+W3Enhanced is an NPM package of the [W3E framework](https://github.com/emnawer/w3e).
 
 ## Installation
 
 ```sh
-npm install w3enhanced
+npm install w3e
 
 ```
 
@@ -13,14 +13,14 @@ npm install w3enhanced
 For for styling only, import the CSS file as follows:
 ```sh
 // import styles
-import 'W3Enhanced/w3e.css'
+import 'w3e/w3e.css'
 ```
 For interactive components like Progress Bar, import the JavaScript file as follows:
 ```sh
 // import JavaScript
-import w3e from 'W3Enhanced'
+import w3e from 'w3e'
 ```
-For instruction in how to use JS components visit [W3E framework](https://github.com/emnawer/W3E).
+For instruction in how to use JS components visit [W3E framework](https://github.com/emnawer/w3e).
 
 ## Support
 
